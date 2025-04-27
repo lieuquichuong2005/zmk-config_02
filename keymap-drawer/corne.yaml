@@ -36,8 +36,8 @@ layers:
   - VOLUME DOWN
   - PREVIOUS
   - PLAY PAUSE
-  - ⏭️
-  - VOLUME UP
+  - NEXT
+  - VOL UP
   - {t: ▽, type: trans}
   - $$mdi:apple-keyboard-command$$
   - {type: held}
