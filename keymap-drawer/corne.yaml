@@ -38,7 +38,7 @@ layers:
   - '9'
   - PREVIOUS
   - PLAY PAUSE
-  - ⏭️
+  - NEXT
   - $$mdi:apple-keyboard-command$$
   - {type: held}
   - ␣
