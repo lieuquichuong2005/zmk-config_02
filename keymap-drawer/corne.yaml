@@ -88,3 +88,7 @@ layers:
   - ⏎
   - {t: '&studio_unlock', type: held}
   - $$mdi:apple-keyboard-option$$
+combos:
+- p: [24, 17]
+  k: ⌦
+  l: [BAS]

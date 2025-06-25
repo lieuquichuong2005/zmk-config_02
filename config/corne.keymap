@@ -14,6 +14,17 @@
 &led_strip { chain-length = <27>; };
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        Delete {
+            bindings = <&kp DEL>;
+            key-positions = <24 17>;
+            timeout-ms = <1>;
+            layers = <0>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
