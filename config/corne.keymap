@@ -18,8 +18,8 @@
         compatible = "zmk,combos";
 
         Delete {
-            bindings = <&kp DEL>;
-            key-positions = <24 17>;
+            bindings = <&kp LC(G)>;
+            key-positions = <11>;
             timeout-ms = <1>;
             layers = <0>;
         };
